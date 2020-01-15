@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-15T13:09:16.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="S_x4svE_7L1DJJapFz7o" version="12.5.3" type="github">
+<mxfile host="www.draw.io" modified="2020-01-15T13:26:35.439Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0" etag="q1ZJX41CJdBDp3iIq0d-" version="12.5.3" type="github">
   <diagram id="s1Qvu9CeLnc-_US4pbAX" name="Page-1">
     <mxGraphModel dx="1039" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,10 +88,10 @@
         <mxCell id="-qMkt_h-Dio3tg8o6YvI-78" value="+IdInterruptions" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;fontStyle=0" parent="-qMkt_h-Dio3tg8o6YvI-77" vertex="1">
           <mxGeometry y="27" width="160" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="-qMkt_h-Dio3tg8o6YvI-79" value="+From" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-qMkt_h-Dio3tg8o6YvI-77" vertex="1">
+        <mxCell id="-qMkt_h-Dio3tg8o6YvI-79" value="+Start" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-qMkt_h-Dio3tg8o6YvI-77" vertex="1">
           <mxGeometry y="53" width="160" height="26" as="geometry"/>
         </mxCell>
-        <mxCell id="SBeB9jDC49FFSnGJznRm-2" value="+To" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-qMkt_h-Dio3tg8o6YvI-77" vertex="1">
+        <mxCell id="SBeB9jDC49FFSnGJznRm-2" value="+End" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" parent="-qMkt_h-Dio3tg8o6YvI-77" vertex="1">
           <mxGeometry y="79" width="160" height="26" as="geometry"/>
         </mxCell>
         <mxCell id="-qMkt_h-Dio3tg8o6YvI-80" value="Researchs" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=#e0e0e0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;swimlaneFillColor=#ffffff;align=center;fontSize=14;" parent="1" vertex="1">
